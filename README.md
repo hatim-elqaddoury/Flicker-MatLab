@@ -3,7 +3,7 @@ flicker removing using MatLab
 
 // Instructions:
 
-Put in the repository an old black and white video with flicker./n
+Put in the repository an old black and white video with flicker.
 
 (if your hardware is not pawerfull,it's better to chose a short video so u can visualize the results).
 
